@@ -3,7 +3,7 @@
 > A Vue.js project to display weather.
 
 ## Build Setup
-``` set API path at 'api_url_multi_search' variable
+set API path at 'api_url_multi_search' variable
 
 ``` bash
 # install dependencies
