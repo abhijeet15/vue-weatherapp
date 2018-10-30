@@ -1,8 +1,9 @@
 # vue-weatherapp
 
-> A Vue.js project
+> A Vue.js project to display weather.
 
 ## Build Setup
+``` set API path at 'api_url_multi_search' variable
 
 ``` bash
 # install dependencies
@@ -15,4 +16,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

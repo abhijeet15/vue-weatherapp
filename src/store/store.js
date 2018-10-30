@@ -12,8 +12,7 @@ export const store = new Vuex.Store({
 	},
 	state : {
 		app: "Weather App",
-		// default_home_page_cities: 'Istanbul,Berlin,London,Helsinki,Dublin,Vancouver',
-		default_home_page_cities: 'Istanbul',
+		default_home_page_cities: 'Istanbul,Berlin,London,Helsinki,Dublin,Vancouver',
 		api_url_multi_search: "http://127.0.0.1:8092/vue-weatherapp/api/weather.php?command=search_multiple&keyword="
 	}
 });
